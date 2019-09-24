@@ -1,0 +1,6 @@
+main: fr.glopeur.ccfw.Main
+name: CrouchCancelFrostWalker
+version: 1.0.0
+description: Canceling the Frost Walker enchantment when crouching
+api-version: 1.14
+author: Glopeur
